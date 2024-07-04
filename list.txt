@@ -12,24 +12,14 @@
 ! Licence: https://easylist.to/pages/licence.html
 ! GitHub issues: https://github.com/easylist/easylist/issues
 ! GitHub pull requests: https://github.com/easylist/easylist/pulls
-||ads.channel4.com
+||2cnt.net^
+channel4.com##+js(no-xhr-if, /\/ad\/g\/1/)
+||fwmrm.net^
+||braze.eu/api/v3/data/
+||demdex.net^
+/appmeasurement.js
+||channel4.com/consent/
+||monitor.channel4.com^
+||cws.conviva.com^
+/adserver?
 
-||cdn.http.anno.channel4.com
-
-||cdn.ss.anno.channel4.com
-
-||channel4.com.112.2o7.net
-
-||channel4.com.sc.omtrdc.net
-
-||channel4.com.ssl.sc.omtrdc.net
-
-||ic.channel4.com
-
-||monitor.channel4.com
-
-||sexperienceuk.channel4.com
-
-||webstat.channel4.com
-
-||webstats.channel4.com 
